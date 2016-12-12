@@ -1,6 +1,11 @@
 Magical Guess the Release Date Game for Disney Movies
 
-This game to guess the release dates for Disney Movies starting from the first film to present. The program will be introduce and will prompt a question. You will only be given one chance to answer the question.
+This game was created to guess the release dates for Disney Movies starting from the first film to present. 
+
+The program will conduct introductions and will promptly ask your name. It will then start asking questions. You will only be given one chance to answer the question. 
+
+At the end it you will get your results by percent based on right answer
+
 
 Why?
 
