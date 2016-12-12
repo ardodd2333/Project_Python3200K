@@ -1,4 +1,4 @@
-Magical Guess the Release Date Game for Disney Movies
+##Magical Guess the Release Date Game for Disney Movies
 
 This game was created to guess the release dates for Disney Movies starting from the first film to present. 
 
