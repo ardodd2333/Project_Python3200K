@@ -7,6 +7,6 @@ The program will conduct introductions and will promptly ask your name. It will 
 At the end it you will get your results by percent based on right answer
 
 
-Why?
+##Why?
 
 Disney is one of my favorite areas of interest and obessions. I thought it would be an interesting concept for me to try to do in python coding. 
